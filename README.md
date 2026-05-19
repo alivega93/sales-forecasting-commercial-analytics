@@ -97,9 +97,10 @@ AWS services were used for:
 - Data quality preparation enabled reliable analytical modeling.
 - Dashboarding improved interpretation and business monitoring. :contentReference[oaicite:3]{index=3}
 
-Author
+## Author
 
 Ali Vega
+
 Cloud Computing / Data Analytics
 
 ## Repository Structure
