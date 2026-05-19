@@ -119,9 +119,10 @@ Cloud Computing / Data Analytics
 
 ## Repository Structure
 
-text
+```text
 sales-forecasting-commercial-analytics/
 │
 ├── README.md
 └── report/
     └── Sales Forecasting & Commercial Analytics.pdf
+```
