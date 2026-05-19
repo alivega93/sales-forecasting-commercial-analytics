@@ -58,10 +58,10 @@ SQL queries were developed to analyze:
 
 Python and Pandas were used to:
 
-- validated data types
-- handled null values and duplicates
-- transformed numerical variables
-- engineered business metrics
+- validate data types
+- handle null values and duplicates
+- transform numerical variables
+- engineer business metrics
 
 A new feature (*VALUE_PER_UNIT*) was created to support business analysis.
 
@@ -119,8 +119,9 @@ Cloud Computing / Data Analytics
 
 ## Repository Structure
 
+text
 sales-forecasting-commercial-analytics/
 │
 ├── README.md
-├── report/
-│   └── Sales Forecasting & Commercial Analytics.pdf
+└── report/
+    └── Sales Forecasting & Commercial Analytics.pdf
