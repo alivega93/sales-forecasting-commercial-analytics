@@ -110,8 +110,4 @@ sales-forecasting-commercial-analytics/
 │
 ├── README.md
 ├── report/
-├── datasets/
-├── notebooks/
-├── screenshots/
-└── assets/
 
