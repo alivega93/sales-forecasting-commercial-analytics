@@ -2,9 +2,13 @@
 
 End-to-end sales analytics project focused on data cleaning, exploratory analysis, dashboarding, cloud analytics and sales prediction to support commercial decision-making.
 
+---
+
 ## Business Problem
 
 How can historical sales data be leveraged to identify commercial patterns, evaluate regional performance and generate future sales estimates to improve strategic decision-making?
+
+---
 
 ## Tech Stack
 
@@ -20,11 +24,15 @@ How can historical sales data be leveraged to identify commercial patterns, eval
 - AWS Athena
 - Excel
 
+---
+
 ## Project Architecture
 
 Data Sources → Excel / SQL Server → Python Processing → AWS Storage → Dashboard & Reporting
 
-The project follows an end-to-end analytics workflow including data extraction, cleaning, transformation, exploratory analysis, machine learning modeling and cloud querying. :contentReference[oaicite:0]{index=0}
+The project follows an end-to-end analytics workflow including data extraction, cleaning, transformation, exploratory analysis, machine learning modeling and cloud querying.
+
+---
 
 ## Methodology
 
@@ -50,12 +58,12 @@ SQL queries were developed to analyze:
 
 Python and Pandas were used to:
 
-- validate data types
-- review null values and duplicates
-- transform numerical variables
-- generate derived metrics
+- validated data types
+- handled null values and duplicates
+- transformed numerical variables
+- engineered business metrics
 
-A new feature (`VALUE_PER_UNIT`) was created to support business analysis. :contentReference[oaicite:1]{index=1}
+A new feature (*VALUE_PER_UNIT*) was created to support business analysis.
 
 ### 4. Exploratory Data Analysis (EDA)
 
@@ -79,7 +87,7 @@ An interactive dashboard was developed including:
 
 ### 6. Machine Learning — Sales Prediction
 
-A Linear Regression model was implemented to estimate future sales using historical commercial behavior and numerical predictors. :contentReference[oaicite:2]{index=2}
+A Linear Regression model was implemented to estimate future sales using historical commercial behavior and numerical predictors.
 
 ### 7. Cloud Analytics with AWS
 
@@ -89,25 +97,31 @@ AWS services were used for:
 - Athena SQL querying
 - cloud-based analytics workflow
 
+---
+
 ## Key Insights
 
 - Significant differences exist between commercial regions.
 - A reduced group of products concentrates a large portion of sales.
 - Weekly sales behavior presents identifiable temporal patterns.
 - Data quality preparation enabled reliable analytical modeling.
-- Dashboarding improved interpretation and business monitoring. :contentReference[oaicite:3]{index=3}
+- Dashboarding improved interpretation and business monitoring.
+
+---
 
 ## Author
 
-Ali Vega
+*Ali Vega*
 
 Cloud Computing / Data Analytics
 
+---
+
 ## Repository Structure
 
-```text
+text
 sales-forecasting-commercial-analytics/
 │
 ├── README.md
-├── report/
-
+└── report/
+    └── Sales Forecasting & Commercial Analytics.pdf
