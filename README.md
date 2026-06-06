@@ -1,5 +1,4 @@
 # 📈 Sales Forecasting & Commercial Analytics
-### 📈 Sales Forecasting & Commercial Analytics
 
 ---
 
