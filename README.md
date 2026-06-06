@@ -262,5 +262,4 @@ sales-forecasting-commercial-analytics
 ## Author
 
 *Ali Vega*
-
 Cloud Computing • Data Analytics
